@@ -11,9 +11,11 @@ gem "sprockets-rails"
 # Use postgresql as the database for Active Record
 gem "pg", "~> 1.1"
 
+#Le Wagon Frontend
 gem "bootstrap", "~>5.2"
 gem "simple_form"
 gem "sassc-rails"
+gem "cloudinary"
 
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
